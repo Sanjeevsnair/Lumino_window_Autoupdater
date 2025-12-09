@@ -6,15 +6,15 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.0</title>
+      <title>Version 1.0.2</title>
       <sparkle:releaseNotesLink>https://example.com/updates/release_notes_1_0_0.html</sparkle:releaseNotesLink>
       <pubDate>Tue, 09 Dec 2025 12:00:00 +0530</pubDate>
 
       <enclosure
-        url="1.0.0+1/Lumino.exe"
-        sparkle:version="1.0.0+1"
+        url="1.0.2/Lumino.exe"
+        sparkle:version="1.0.2"
         sparkle:os="windows"
-        sparkle:dsaSignature="MDwCHFrksjAnfRofkMAGgXj8aBhI/7xAHLGMh2/YYfUCHD2ae4mllqoyDLzkqVUY62Ua3isyFmG4Rhy1u2g="
+        sparkle:dsaSignature="MDwCHHzNn0Zg+KQZu9L4u4Eh37XR2jgv2m/akTHLKbMCHBs5s6XxVuPccBl9rTYnK3fe940rJp3AUt1RDgw="
         length="0"
         type="application/octet-stream"/>
     </item>
