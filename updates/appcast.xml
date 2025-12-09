@@ -1,1 +1,23 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Lumino Updates</title>
+    <description>Update feed for Lumino</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.1.0</title>
+      <sparkle:releaseNotesLink>https://example.com/updates/release_notes_1_0_0.html</sparkle:releaseNotesLink>
+      <pubDate>Tue, 09 Dec 2025 12:00:00 +0530</pubDate>
+      <enclosure
+        url="1.0.0+1/Lumino_Setup.exe"
+        sparkle:version="1.0.0+1"
+        sparkle:os="windows"
+        sparkle:dsaSignature="MDwCHFlNSyLkjvvDIJr8tfzEpuivPirHpRLV0D8/0gICHEK/XdJsCBs6oxwmcNyyJXYxW6UzFzoJ+zfUzag="
+        length="0"
+        type="application/octet-stream" />
+    </item>
+
+  </channel>
+</rss>
