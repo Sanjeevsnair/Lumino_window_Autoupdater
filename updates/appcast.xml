@@ -14,7 +14,7 @@
         url="1.0.0+1/Lumino.exe"
         sparkle:version="1.0.0+1"
         sparkle:os="windows"
-        sparkle:dsaSignature="MDwCHG6gbGtsxxHCC/5tWQc5Dvy3bxpUBTcP7YZd6i8CHCEhuwdelp5vK4D6+jdngZH2yt8aXDNqkhWMMEY="
+        sparkle:dsaSignature="MDwCHFrksjAnfRofkMAGgXj8aBhI/7xAHLGMh2/YYfUCHD2ae4mllqoyDLzkqVUY62Ua3isyFmG4Rhy1u2g="
         length="0"
         type="application/octet-stream"/>
     </item>
