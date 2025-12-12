@@ -6,15 +6,15 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.1.0+5</title>
+      <title>Version 1.1.1+1</title>
       <sparkle:releaseNotesLink>https://example.com/updates/release_notes_1_0_0.html</sparkle:releaseNotesLink>
       <pubDate>Tue, 09 Dec 2025 12:00:00 +0530</pubDate>
 
       <enclosure
-        url="https://github.com/Sanjeevsnair/Lumino_window_Autoupdater/releases/download/v1.1.0%2B5/Lumino_Setup.exe"
-        sparkle:version="1.1.0+5"
+        url="https://github.com/Sanjeevsnair/Lumino_window_Autoupdater/releases/download/v1.1.1%2B1/Lumino_Setup.exe"
+        sparkle:version="1.1.1+1"
         sparkle:os="windows"
-        sparkle:dsaSignature="MDwCHGWWXRsds6YaZ7ryy/dxhDBkTsRVLiLsjp8x3AECHBmZ3NPLF829Tsec2nhsDzB1mOSWQ6i3a7DH4HY="
+        sparkle:dsaSignature="MDwCHAT5oQBfd2zSZ0M4EKbSpEBKJMGKFuuCoLl/NuQCHF3d5WX9GgcjK2vDrPX+WvmHF4Hs64NPF27RC14="
         length="0"
         type="application/octet-stream"/>
     </item>
